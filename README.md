@@ -1,2 +1,2 @@
-# crime_prediction
+# Crime Prediction
 Research Methods Class Project
