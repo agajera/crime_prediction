@@ -28,5 +28,5 @@ to a new data path where the dataset is stored and ensure all dependecies are in
 
 ### Models
 * Three models are trained for this task and evaluated on the accuracy score metric. Results are presented as below;
-![image.png]('./images/results.png')
+![image.png](./images/results.png)
 
