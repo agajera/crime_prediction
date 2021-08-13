@@ -9,8 +9,6 @@ This repository contains code and all files for the crime rate prediction resear
 | data/ | Contains the train dataset |
 | images/ | images used for illustration purposes in the README. |
 | crime-pred.ipynb | Contains the code for the project |
-| report.pdf | Project report/final writeup |
-| report.zip | Latex source files for the report |
 
 ### Code Execution & Environment
 * The project code is executed using the Kaggle notebooks environment. In order to execute this code locally, change the `DATA_PATH` within the notebook here;
