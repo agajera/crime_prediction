@@ -1,4 +1,4 @@
-# Crime Rate Prediction with Machine Learning.<hr>
+# Crime Rate Prediction with Machine Learning.
 
 This repository contains code and other files for the crime rate prediction research project.
 
@@ -40,7 +40,7 @@ crime-pred.ipynb:
  <ul>
 <li>Pandas</li>
 <li>Numpy</li>
-<li>Sklearn</li>
+<li>sklearn</li>
 <li>Matplotlib</li>
 </ul>
 <b>Language Used</b>
