@@ -29,7 +29,7 @@ to a new data path where the dataset is stored and ensure all dependecies are in
 
 ### Acknowledgements
 Credit goes to https://github.com/tina31726/Crime-Prediction/
-From above link, I have used the dataset.
+From mentioned link, I have used the dataset.
 
 Also, Credit goes to the reference research paper for this study -- Jos´e Ribeiro, Lair Meneses, Denis Costa, Wando Miranda, and Ronnie
 Alves. Prediction of Homicides in Urban Centers: A Machine Learning Approach.
