@@ -34,6 +34,19 @@ crime-pred.ipynb:
     <li> ANN for crime rate prediction </li>
   </ul>
   </div>
+  
+<h3>Getting Started</h3><hr>
+<b>Dependencies</b>
+ <ul>
+<li>Pandas</li>
+<li>Numpy</li>
+<li>Sklearn</li>
+<li>Matplotlib</li>
+</ul>
+<b>Language Used</b>
+ <ul>
+<li>Python : version above 3.0</li>
+</ul>
 
 ### Models
 * Three models are trained for this task and evaluated on the accuracy score metric. Results are presented as below;
