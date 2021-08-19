@@ -1,6 +1,6 @@
 # Crime Rate Prediction with Machine Learning.
 
-This repository contains code and all files for the crime rate prediction research project.
+This repository contains code and other files for the crime rate prediction research project.
 
 ### File Descriptions
 
