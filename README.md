@@ -23,9 +23,6 @@ def load_data(filename: str):
 to a new data path where the dataset is stored and ensure all dependecies are installed. For instance, if you clone this repository, and want to run the notebook locally your new data path would be 
 `./data/communities-crime-clean.csv`
 
-### Dataset Description
-I have used the dataset from https://github.com/tina31726/Crime-Prediction/
-
 ### Models
 * Three models are trained for this task and evaluated on the accuracy score metric. Results are presented as below;
 ![image.png](./images/results.png)
@@ -39,7 +36,7 @@ Alves. Prediction of Homicides in Urban Centers: A Machine Learning Approach.
 
 
 ### Authors
-Aakash Babubhai Gajera
+Aakash Babubhai Gajera;
 Feel free to contact me at gajeraa@lakeheadu.ca
 
 ### License
