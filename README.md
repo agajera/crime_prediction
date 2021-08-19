@@ -35,7 +35,7 @@ crime-pred.ipynb:
   </ul>
   </div>
   
-<h2>Getting Started</h2>
+<h3>Getting Started</h3>
 <b>Dependencies</b>
  <ul>
 <li>Pandas</li>
