@@ -24,10 +24,19 @@ to a new data path where the dataset is stored and ensure all dependecies are in
 `./data/communities-crime-clean.csv`
 
 ### Dataset Description
+I have used the dataset from https://github.com/tina31726/Crime-Prediction/
 
 ### Models
 * Three models are trained for this task and evaluated on the accuracy score metric. Results are presented as below;
 ![image.png](./images/results.png)
+
+### Acknowledgements
+Credit goes to https://github.com/tina31726/Crime-Prediction/
+From above link, I have used the dataset.
+
+Also, Credit goes to the reference research paper for this study -- Jos´e Ribeiro, Lair Meneses, Denis Costa, Wando Miranda, and Ronnie
+Alves. Prediction of Homicides in Urban Centers: A Machine Learning Approach.
+
 
 ### Authors
 Aakash Babubhai Gajera
