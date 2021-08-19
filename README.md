@@ -24,6 +24,16 @@ to a new data path where the dataset is stored and ensure all dependecies are in
 `./data/communities-crime-clean.csv`
 
 ### Manifest
+crime-pred.ipynb:
+<div>
+  <ul>
+    <li> Code for data loading and analysis </li>
+    <li> Modeling </li>
+    <li> Xgboost Model for crime rate prediction </li>
+    <li> LightGBM Model for crime rate prediction </li>
+    <li> ANN for crime rate prediction </li>
+  </ul>
+  </div>
 
 ### Models
 * Three models are trained for this task and evaluated on the accuracy score metric. Results are presented as below;
@@ -42,7 +52,7 @@ Aakash Babubhai Gajera;
 Feel free to contact me at gajeraa@lakeheadu.ca
 
 ### License
-This project is not Licensed
+This project is not Licensed.
 
 ### Project Status
 This project is completed and got accuracy above 80% for all models which I have used, however improvements can be made in terms of accuracy.
